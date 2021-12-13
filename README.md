@@ -1,2 +1,2 @@
-# my first learning go programming language
-# this is sample basic go program fundamental
+## Go programming language
+Belajar membuat program sederhana dengan golang dan sebagai syarat tugas kuliah mata kuliah network programming
